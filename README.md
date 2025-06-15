@@ -1,12 +1,14 @@
 # 🌍 Proyecto: Protección Medioambiental e Informática
 
 ## Índice
-1. [¿Qué es la contaminación ambiental?](#1-qué-es-la-contaminación-ambiental)
-2. [Residuos informáticos](#2-residuos-informáticos)
-3. [Obsolescencia programada](#3-obsolescencia-programada)
-4. [Informática ecológica](#4-informática-ecológica)
-5. [Referencias](#5-referencias)
-6. [Autores](#6-autores)
+
+1. [¿Qué es la contaminación ambiental?](que-es-la-contaminacion-ambiental.md)
+2. [Residuos informáticos](residuos-informaticos.md)
+3. [Obsolescencia programada](obsolescencia-programada.md)
+4. [Informática ecológica](informatica-ecologica.md)
+5. [Referencias](referencias.md)
+6. [Autores](autores.md)
+
 
 ---
 
