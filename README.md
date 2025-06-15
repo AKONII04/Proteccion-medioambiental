@@ -22,8 +22,6 @@ Las causas principales incluyen:
 - Quema de combustibles fósiles
 - Desecho inadecuado de residuos electrónicos
 
-![Contaminación del aire](https://upload.wikimedia.org/wikipedia/commons/e/e7/Air_pollution_by_industry.jpg)
-
 ---
 
 ## 2. Residuos informáticos
@@ -35,7 +33,6 @@ Los residuos informáticos son desechos tecnológicos como:
 
 Estos aparatos contienen metales pesados (como plomo y mercurio) que son altamente contaminantes si no se reciclan adecuadamente. Además, muchos de ellos terminan en países en vías de desarrollo, donde son mal gestionados, afectando a las comunidades locales.
 
-![Residuos tecnológicos](https://upload.wikimedia.org/wikipedia/commons/6/6b/Electronic_waste.jpg)
 
 > ⚠️ En 2023 se generaron más de 50 millones de toneladas de residuos electrónicos a nivel mundial, y solo un 17% se recicló correctamente.
 
@@ -53,7 +50,7 @@ La obsolescencia programada es una técnica de diseño donde los productos tecno
 | Estética                    | Diseño "pasado de moda"               |
 | Por software                | Apps que ya no funcionan en modelos antiguos |
 
-![Obsolescencia programada](https://upload.wikimedia.org/wikipedia/commons/f/fb/Obsolescence_example.jpg)
+
 
 > 🛠️ Este modelo incrementa el consumo y los residuos, lo cual daña gravemente al medioambiente.
 
@@ -68,7 +65,6 @@ La informática ecológica, también llamada "Green IT", busca reducir el impact
 - Promoción de hardware duradero
 - Programación eficiente que reduzca el consumo energético
 
-![Green computing](https://upload.wikimedia.org/wikipedia/commons/5/5d/Green_IT.jpg)
 
 ### ✅ Acciones recomendadas
 
