@@ -8,4 +8,5 @@ La contaminación ambiental es la alteración del entorno natural provocada por 
 - Desechos tecnológicos
 
 📸  
-![Contaminación del aire](https://upload.wikimedia.org/wikipedia/commons/e/e7/Air_pollution_by_industry.jpg)
+![contaminacion-medioambiental](https://github.com/user-attachments/assets/db3eb586-a7d4-4321-b8cd-03a59b8e6bf1)
+
