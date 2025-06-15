@@ -12,3 +12,4 @@ Es una técnica mediante la cual los productos son diseñados para tener una vid
 
 📸  
 
+![obsolescencia-programada](https://github.com/user-attachments/assets/9dded6e2-a254-4c67-8c85-3d91e83d84a0)
